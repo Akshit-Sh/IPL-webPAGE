@@ -1,0 +1,122 @@
+body{
+            
+    background-image: url(https://resources.platform.iplt20.com/photo-resources/2020/02/15/920c309c-a894-4f9a-a702-b9ac34725e38/DMIPL11809.JPG?width=2000&height=1333);
+    background-repeat: no-repeat;
+    width: 100vw;
+    background-position: ;
+    height: 1300px;
+}
+.logo img{
+    height: 120px;
+width: 134px;
+margin: 22px;
+display: inline-block;
+ 
+}
+.navbar{
+   
+   display: inline-block;
+   
+}
+
+.navbar ul{
+    overflow: auto;
+}
+
+.navbar li{
+    text-decoration: none;
+    list-style: none;
+    float: left;
+    padding: 3px 3px;
+    display: inline-block;
+ 
+}
+.bar{
+    display: inline-block;
+    padding-right: 3px;
+    padding-top: 3px;
+    position: absolute;
+    right: 170px;
+    top: 40px;
+}
+
+a{
+    margin: 30px;
+    color: white;
+    font-size: 21px;
+    font-family: 'Zen Dots', cursive;
+    list-style: none;
+    text-decoration: none;
+    transition: all;
+    transition-duration: 1.3s;
+ 
+}
+ a:hover{
+    transform: scale(3);
+    color: yellow;
+    text-decoration: underline;
+    font-size: 25px;
+   
+}
+marquee{
+    color: yellow;
+    font-size: 20px;
+    background-color: black;
+
+    
+
+}
+.akshit{
+    color: yellow;
+}
+
+.form{
+    display: inline-block;
+    margin: 100px;
+    font-size: 25px;
+    color: rgb(0, 183, 255);
+    font-family: cursive;
+}
+.kkr{
+    margin-left: 10px;
+    color: #d8b51b;
+    text-shadow: 5px 8px 4px black;
+}
+
+.csk{
+    color: #fbff00;
+    text-shadow: 5px 8px 4px black;
+}
+
+.mi{
+    color: rgb(0, 102, 255);
+    text-shadow: 5px 8px 4px black;
+}
+
+.srh{
+    color: orange;
+    text-shadow: 5px 8px 4px black;
+}
+
+.rcb{
+    color: red;
+    text-shadow: 5px 8px 4px black;
+}
+
+.rr{
+    color: rgb(202, 127, 192);
+    text-shadow: 5px 8px 4px black;
+}
+
+.pbks{
+    color: rgb(255, 94, 0);
+    text-shadow: 5px 8px 4px black;
+}
+
+.dc{
+    color: rgb(69, 204, 228);
+    text-shadow: 5px 8px 4px black;
+}
+h3{
+    text-shadow: 5px 8px 4px black;
+}
